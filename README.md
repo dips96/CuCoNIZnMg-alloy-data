@@ -1,1 +1,1 @@
-# CuCoNIZnMg-alloy-data
+# CuCoNiZnMg-alloy-data
